@@ -6,13 +6,13 @@ A collection of tiny, focused Rust crates built on the standard library alone. E
 
 ## Crates
 
-| Crate | Description | Version |
-|-------|-------------|---------|
-| 🎨 [nanocolor](#-nanocolor) | Terminal colors and styles | ![crates.io](https://img.shields.io/crates/v/nanocolor.svg) |
-| ⠋ [nanospinner](#-nanospinner) | Terminal spinners | ![crates.io](https://img.shields.io/crates/v/nanospinner.svg) |
-| ░ [nanoprogress](#-nanoprogress) | Progress bars | ![crates.io](https://img.shields.io/crates/v/nanoprogress.svg) |
-| 📝 [nanologger](#-nanologger) | Colored, leveled logger | ![crates.io](https://img.shields.io/crates/v/nanologger.svg) |
-| ⏱ [nanotime](#-nanotime) | Time utilities | ![crates.io](https://img.shields.io/crates/v/nanotime.svg) |
+| Crate | Description | Version | GitHub | Coverage |
+|-------|-------------|---------|--------|----------|
+| 🎨 [nanocolor](#-nanocolor) | Terminal colors and styles | [![crates.io](https://img.shields.io/crates/v/nanocolor.svg)](https://crates.io/crates/nanocolor) | [Repo](https://github.com/anthonysgro/nanocolor) | [![Coverage](https://coveralls.io/repos/github/anthonysgro/nanocolor/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanocolor?branch=main) |
+| ⠋ [nanospinner](#-nanospinner) | Terminal spinners | [![crates.io](https://img.shields.io/crates/v/nanospinner.svg)](https://crates.io/crates/nanospinner) | [Repo](https://github.com/anthonysgro/nanospinner) | [![Coverage](https://coveralls.io/repos/github/anthonysgro/nanospinner/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanospinner?branch=main) |
+| ░ [nanoprogress](#-nanoprogress) | Progress bars | [![crates.io](https://img.shields.io/crates/v/nanoprogress.svg)](https://crates.io/crates/nanoprogress) | [Repo](https://github.com/anthonysgro/nanoprogress) | [![Coverage](https://coveralls.io/repos/github/anthonysgro/nanoprogress/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanoprogress?branch=main) |
+| 📝 [nanologger](#-nanologger) | Colored, leveled logger | [![crates.io](https://img.shields.io/crates/v/nanologger.svg)](https://crates.io/crates/nanologger) | [Repo](https://github.com/anthonysgro/nanologger) | [![Coverage](https://coveralls.io/repos/github/anthonysgro/nanologger/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanologger?branch=main) |
+| ⏱ [nanotime](#-nanotime) | Time utilities | [![crates.io](https://img.shields.io/crates/v/nanotime.svg)](https://crates.io/crates/nanotime) | [Repo](https://github.com/anthonysgro/nanotime) | [![Coverage](https://coveralls.io/repos/github/anthonysgro/nanotime/badge.svg?branch=main)](https://coveralls.io/github/anthonysgro/nanotime?branch=main) |
 
 ---
 
