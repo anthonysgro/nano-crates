@@ -1,4 +1,4 @@
-# 🧊 The Nano Crate Family
+# 📦 Nano Crate Suite
 
 > Minimal, (mostly) zero-dependency Rust crates for CLI applications.
 
