@@ -6,6 +6,7 @@ Thanks for your interest in contributing! The nano crate family is a collection 
 
 Each crate lives in its own repository. Please file issues on the appropriate crate's repo:
 
+- **nanoargs** — [github.com/anthonysgro/nanoargs/issues](https://github.com/anthonysgro/nanoargs/issues)
 - **nanocolor** — [github.com/anthonysgro/nanocolor/issues](https://github.com/anthonysgro/nanocolor/issues)
 - **nanospinner** — [github.com/anthonysgro/nanospinner/issues](https://github.com/anthonysgro/nanospinner/issues)
 - **nanoprogress** — [github.com/anthonysgro/nanoprogress/issues](https://github.com/anthonysgro/nanoprogress/issues)
