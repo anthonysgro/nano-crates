@@ -1,4 +1,4 @@
-# 📦 Nano Crate Suite
+# 📦 Nano
 
 > Minimal, (mostly) zero-dependency Rust crates for focused applications.
 
